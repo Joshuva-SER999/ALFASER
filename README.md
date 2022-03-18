@@ -34,10 +34,10 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
 . You will have to fork this git to deploy via Heroku.
   click to fork the git into your account click this logo
    
-Click [FORK](https://github.com/Joshuva-ser/ALFASERv1/fork)
+Click [FORK](https://github.com/Joshuva-SER999/ALFASER/fork)
 
 
-1. Now https://heroku.com/deploy?template=https://github.com/Joshuva-ser/ALFASERv1 copy this url and change Joshuvaser with your github username and click go<br>
+1. Now https://heroku.com/deploy?template=https://github.com/Joshuva-SER999/ALFASER copy this url and change Joshuvaser with your github username and click go<br>
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ItsMeRafi/Miss-Helena-QR?v=1)
